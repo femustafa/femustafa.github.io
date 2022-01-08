@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/Dp.jpeg"
   bio    : "Placeholder"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: faizanmustafa750@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://faizan-e-mustafa.github.io/"
@@ -111,3 +114,10 @@ defaults:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
