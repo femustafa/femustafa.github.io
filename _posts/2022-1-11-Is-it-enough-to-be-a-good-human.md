@@ -5,6 +5,7 @@ categories:
 tags:
   - Religion
   - Morality
+toc: True
 ---
 
 Nowadays it is a common occurrence that you will encounter individuals who want to live a free life, not willing to abide by the rules that are not their own, and even those self-constructed rules may be sacrificed in the pursuit of becoming a more free person when needed. Governments have managed to give people the illusion of absolute freedom that has never existed and will never exist for a better reason. 
@@ -26,23 +27,27 @@ Absolute freedom makes us think that morals are subjective which is not true in 
 
 Something is objective if your personal beliefs and opinions do not affect it. That means the objective thing is outside of your subjective self, hence, it needs to be grounded. Morals are objective because God exists as we will see that there is no other explanation that has a better explanatory scope.
 
-## Inference to the best explanation:
+## Inference to the best explanation
 
 Abductive reasoning is an indispensable form of reasoning. When you go to a doctor and after listening to all the symptoms she infers that the symptoms are best explained by some disease e.g common cold, then she is using abductive reasoning. The process of coming up with multiple plausible hypotheses for the available data and then selecting the one that is simple and most comprehensive (explains the data best). In other words, we infer the best possible explanation. If the data and the explanations are finite then the best explanation would be close to certainty.
 
 We will be using abductive reasoning to find out the best possible explanation for morals being objective. Following are possible explanations.
 
-1. **Biology:** Morals can’t be objective if they are subject to biological changes because if the biological condition change then our morality will also change. If humans were to be exposed to an environment that is similar to the environment in which honey bees live, then a mother would have also considered it moral to kill her fertile daughters. In the context of natural selection, everything that helped us survive and reproduce would have been moral. Moreover, The fact that we consider rape as immoral is as arbitrary as humans have five fingers instead of six[1]. Morals based on biology are subject to change and, hence, are subjective
-2. **Social Pressure:** Morals are subject to social changes which make morals subjective. If morality is defined by social pressure then you could create an environment where it will be okay to kill people. We have already seen an example of it as in the case of Nazi Germany. 
-3. **Moral Realism:** According to moral realism, morals are objective just as it is. It fails to provide any grounding for morals to be objective. Additionally, morality requires a sense of duty. If you do not ground the morals then you are not obliged to act upon them as there will be no reward or penalty for them. 
-4. **God:** The presence of God is the best explanation for morals being objective. Firstly, Morals are mere social conventions and subject to change if you take God out of the equation. Secondly, the hypothesis has explanatory scope because God transcends human subjectivity and is the only way to ground our objective morals. Thirdly, Allah is Al-Barr which means the source of all goodness. God's will is according to His nature which is good and He defines what good is. Lastly, As opposed to moral realism, God makes morality meaningful as we are then obliged to act upon the morals because we have a duty to act upon the commands of God. 
+1. ### Biology
+ Morals can’t be objective if they are subject to biological changes because if the biological condition change then our morality will also change. If humans were to be exposed to an environment that is similar to the environment in which honey bees live, then a mother would have also considered it moral to kill her fertile daughters. In the context of natural selection, everything that helped us survive and reproduce would have been moral. Moreover, The fact that we consider rape as immoral is as arbitrary as humans have five fingers instead of six[1]. Morals based on biology are subject to change and, hence, are subjective
+2. ### Social Pressure
+Morals are subject to social changes which make morals subjective. If morality is defined by social pressure then you could create an environment where it will be okay to kill people. We have already seen an example of it as in the case of Nazi Germany. 
+3. ### Moral Realism
+ According to moral realism, morals are objective just as it is. It fails to provide any grounding for morals to be objective. Additionally, morality requires a sense of duty. If you do not ground the morals then you are not obliged to act upon them as there will be no reward or penalty for them. 
+4. ### God
+ The presence of God is the best explanation for morals being objective. Firstly, Morals are mere social conventions and subject to change if you take God out of the equation. Secondly, the hypothesis has explanatory scope because God transcends human subjectivity and is the only way to ground our objective morals. Thirdly, Allah is Al-Barr which means the source of all goodness. God's will is according to His nature which is good and He defines what good is. Lastly, As opposed to moral realism, God makes morality meaningful as we are then obliged to act upon the morals because we have a duty to act upon the commands of God. 
 
 In conclusion, God is the best explanation for morals being objective. If someone rejects the objectiveness of the morals then it has absurd conclusions as we then have no right to call a psychopath who killed a person a killer as we discussed earlier and there will be no need for a justice system. 
 
 > Hence, God is the reason for morals being objective which demands we need to follow the definition of good defined by God. Additionally, subjective definition of good leads to absurd implications.
 > 
 
-## References:
+## References
 
 - Andreas Tzortzis, H.(2019) Chapter 9 Know God Know Good, The Divine Reality: God, Islam and The Mirage of Atheism
 - Andreas Tzortzis, H.(2019) Chapter 13 God’s Testimony, The Divine Reality: God, Islam and The Mirage of Atheism

@@ -4,6 +4,7 @@ categories:
   - Blog
 tags:
   - Religion
+toc: True
 ---
 
 
@@ -20,7 +21,7 @@ A child is born with the natural instinct to believe in God which is referred to
     > If they happen to be aboard a ship ˹caught in a storm˺, they cry out to Allah ˹alone˺ in sincere devotion. But as soon as He delivers them ˹safely˺ to shore, they associate ˹others with Him once again˺. The Quran 29:65 (Translated by Dr. Mustafa Khattab)
     > 
 
-**What is worship?**
+## What is worship?
 
 Worship constitutes of followings acts.
 
@@ -29,7 +30,7 @@ Worship constitutes of followings acts.
 - **Obey God:** Submission to His will
 - **Direct acts of worship to God:** Gratitude, praise, prayer, and supplication.
 
-**Becoming a free slave:**
+## Becoming a free slave
 
 The definition of worship described above can be universalized and applied to other ideologies. Nationalism is one of them and is described in the figure below.
 
@@ -42,7 +43,7 @@ There are a plethora of ideologies that we knowingly or unknowingly worship e.g 
 
 Hence, the only way to become a *free slave* is to worship one and only God. Allah liberates your soul from being enslaved to all the other masters.
 
-**Why Allah is worthy of worship?**
+## Why Allah is worthy of worship?
 
 - God's right to worship is a necessary fact of His existence. We praise the people by the virtue of who they are all the time. For instance, if you like a football player you would admire and praise him by the virtue of his skills and athletic ability even though his skills and attributes are not perfect. Therefore, we need to worship God by the virtue of who He is, as He is maximally perfect in His attributes.
 - God has created and sustains everything.
@@ -50,7 +51,7 @@ Hence, the only way to become a *free slave* is to worship one and only God. All
 - It is in our nature to worship(Fitrah)
 - The rational arguments also lead us to the conclusion that only God is worthy of worship. More one this in upcoming articles.
 
-**Why did God create us to worship?**
+## Why did God create us to worship?
 
 The creation of human beings is the manifestation of God’s names and attributes. A painter is regarded as a painter because she manifests her artistic skills by painting. The painting is the manifestation of the painter's attributes. Likewise, God has manifested His names and attribute by creating human beings as He is Al-Khaliq(The creator).
 
