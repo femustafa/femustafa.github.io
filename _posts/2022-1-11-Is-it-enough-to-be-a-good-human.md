@@ -7,6 +7,8 @@ tags:
   - Morality
 ---
 
+# Is It Enough to Be a Good Person?
+
 Nowadays it is a common occurrence that you will encounter individuals who want to live a free life, not willing to abide by the rules that are not their own, and even those self-constructed rules may be sacrificed in the pursuit of becoming a more free person when needed. Governments have managed to give people the illusion of absolute freedom that has never existed and will never exist for a better reason. 
 
 Those who are on their journey to achieving absolute freedom often argue that you just need to be a good person(good is defined by themselves) and in order to do so you do not need the code of conduct that comes along with religion. But the fact of the matter is the question regarding “good” and “bad” are moral questions and surprisingly religion has a couple of things to say about morality. This does not imply that the people who do not follow a religion will not have any morals. In fact, one can find people who do not practice religion and are even more civilized and utmost respectful than some of the religious people. 
@@ -15,10 +17,8 @@ One thing to note is that there is a difference between ethics and morals. Ethic
 
 We will try to discuss the following hypothesis in the article.
 
-<aside>
-📌 **Hypothesis:** If God is the reason for morals being objective, then it is not enough just to be a person who follows the subjective definition of good. Instead, we have a duty to act upon the code of conduct given by the creator of the good i.e God.
-
-</aside>
+> **Hypothesis:** If God is the reason for morals being objective, then it is not enough just to be a person who follows the subjective definition of good. Instead, we have a duty to act upon the code of conduct given by the creator of the good i.e God.
+> 
 
 ## Can morals be subjective?
 
@@ -41,10 +41,8 @@ We will be using abductive reasoning to find out the best possible explanation f
 
 In conclusion, God is the best explanation for morals being objective. If someone rejects the objectiveness of the morals then it has absurd conclusions as we then have no right to call a psychopath who killed a person a killer as we discussed earlier and there will be no need for a justice system. 
 
-<aside>
-📌 Hence, God is the reason for morals being objective which demands we need to follow the definition of good defined by God. Additionally, subjective definition of good leads to absurd implications.
-
-</aside>
+> Hence, God is the reason for morals being objective which demands we need to follow the definition of good defined by God. Additionally, subjective definition of good leads to absurd implications.
+> 
 
 ## References:
 
