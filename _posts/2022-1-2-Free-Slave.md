@@ -10,7 +10,7 @@ toc: True
 
 The desire to determine the ultimate purpose of human life compels us to understand human beings better. Humans can’t be defined according to functionalism. We are not labeled as homo sapiens just because we were able to function/pretend like a conscious being, hence, passing the [turing test .](https://www.youtube.com/watch?v=3wLqsRLvV-c) According to the Islamic tradition, Humans can be defined in terms of heart, spirit, original disposition (Fitrah), ego (Nafs), and intellect which is a function of the heart. The focus of this article will be Fitrah. 
 
-A child is born with the natural instinct to believe in God which is referred to as Fitrah. However, the upbringing and environmental factors can make it clouded. Following are examples of the methods that can help uncloud Fitrah.
+A child is born with the natural instinct to believe in God(Allah) which is referred to as Fitrah. However, the upbringing and environmental factors can make it clouded. Following are examples of the methods that can help uncloud Fitrah.
 
 - **Spirituality:** Nature of our relationship with God and why Allah is worthy of worship?
 - **Rational arguments:** Thinking critically and arguments based on logical reasoning. e.g Kalam cosmological argument.
