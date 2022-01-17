@@ -3,8 +3,7 @@ title: "Utopia: The Problem Is That There Is No Problem"
 categories:
   - Blog
 tags:
-  - Religion
-  - Morality
+  - Existentialism
 toc: True
 ---
 
