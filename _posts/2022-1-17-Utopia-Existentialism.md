@@ -9,7 +9,7 @@ toc: True
 
 This blog discusses the importance of a value system that helps us to cope with the existential problem. The downfall of Christianity in Europe left people with the choice of nihilism or a totalitarian utopia. In order to avoid nihilism, existentialist philosophers encouraged people to create their own value system. Existentialists opposed the concept of utopia and showed that the theoretical utopia is practically a dystopia as it undermines the importance of human’s free will. In a society where there is no economic problem, as it is based on rationality and optimized for only happiness, people will create new problems just to prove that they have free will.
 
-# Existentialism:
+# Existentialism
 
 If you want to find out about the beliefs of a person, would you inquire them about their beliefs or just look at how they act?. The way an individual act can tell you more about the beliefs than words that are mostly used just to muddy the waters. Existentialism assigns more weight to action than to a set of statements. 
 
@@ -21,13 +21,13 @@ Because you were thrown into the world, a world with seemingly no purpose, exist
 
 I do not subscribe to the concept of creating ultimate meaning. The values are not created but rather discovered. It is certainly possible to create “meaning in life” but the “meaning of life” is to be defined by who has created the life in the first place. This topic needs a separate treatment. 
 
-# Nietzsche’s Nihilism:
+# Nietzsche’s Nihilism
 
 Nietzsche, who claimed to write an idea in a sentence that others could not even write in a whole book, had a couple of words to say about Christianity. Christianity was able to provide a value structure that gives meaning to the existential problem. However, the Late 19th century marks the downfall of Christianity, primarily due to its dogmatic teachings. The belief system is built in a way that we have some core axiomatic beliefs and all the other beliefs are contingent upon the axiomatic beliefs. The people came to realize that their axiomatic beliefs provided by the dogmatic teaching are doomed to crumble and the domino effect will only lead to complete meaninglessness in life i.e Nihilism. That is why an alternative value system was needed to cope with the demise of the previous value system. 
 
-# Dostoevsky and the Critique of Utopia:
+# Dostoevsky and the Critique of Utopia
 
-## Communist’s Utopia:
+## Communist’s Utopia
 
 Right after the abandonment of the Christian value system, people started to preach a dream of a utopia where everything will be **purely rational** and where all the people will contribute to the society according to their ability and everybody will be provided resources according to their needs. Everyone will be on the same social strata and there will be no poor and needy people. Hence, everybody will be full of bliss and there will be no suffering. Who would not want to live in such a society?. But the communist regime has shown us that a theoretical utopia is in fact a practical dystopia. Dostoevsky indicated the perils of such a society ahead of his time.
 
@@ -54,6 +54,7 @@ Recall the time when you knew, yes, you knew that the best you could get out of 
 📌 In conclusion, we need to have a value system in order to cope with the existential problem. For Europe, the downfall of Christianity left people with two options namely nihilism and totalitarian utopia. Existentialists encouraged individuals to create their own value system to avoid nihilism whereas the other group of people adopted the shining idea of utopia. Dostoevsky and other existential philosophers analyzed the role of rationality and suggested that the utopia is actually a dystopia as it undermines the importance of freedom in human life. In a rational society where there is no economic problem and everything is calculated, people will create new problems just to prove that they have free will.
 
 </aside>
+
 
 # References
 
