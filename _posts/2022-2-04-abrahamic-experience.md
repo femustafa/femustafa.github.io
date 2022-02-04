@@ -26,7 +26,7 @@ Islam is a monotheistic religion that puts a strong emphasis on the oneness of G
 
 Let's try to put the story of Abraham and David Hume’s ideas into perspective.
 
-### God as a complex idea
+### God as a simple idea
 
 When Abraham was thinking of stars as God, he took two simple concepts namely God and star and came up with the complex idea of star God. As we discussed before that simple ideas must be experienced in order to conceive them which means that the idea of God is an experience that everybody is **intuitively** aware of. A blind man who has never experienced the colors before can never really conceive and talk about colors in a true sense. Hence, God is a simple idea that everyone has experienced and that should not be combined with other simple ideas to make complex ideas. In other words, associating partners with God is the worst sin in Islam.
 
