@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Philosophy
-  - Dualism
+  - Religion
 toc: True
 ---
 
@@ -44,7 +44,7 @@ Every human being has been blessed with something that enables us to be aware of
 
 What is the difference between a robot and a human?. If we manage to develop a robot that is a carbon copy of humans then does it mean that they both are the same?. It is certainly possible to develop a robot that says ouch whenever you pinch it and you could also observe the biological neurons firing. Moreover, it behaves identically to humans. However, the inner subjective consciousness can’t be added to it. This shows us the indispensable importance of intuitive experience.
 
-> In conclusion, the story of Abraham reaffirms the intuitive experience of the oneness of God which is experienced by every being. The simple idea of God can’t be combined with any other idea as God is perfect and there is no addition to perfection. We also briefly looked at the importance of intuitive experience for humans.
+> In conclusion, the story of Abraham reaffirms the intuitive experience of the oneness of God which is experienced by every being. The simple idea of God can’t be combined with any other idea as God is perfect and there is no addition to perfection. We also briefly looked at the importance of intuitive and concious experience for humans.
 > 
 
 # References
