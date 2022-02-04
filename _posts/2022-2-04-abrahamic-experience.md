@@ -20,7 +20,7 @@ Complex ideas are those which are the combination of simple ideas. We are unable
 
 The people in the Abraham era were indulged in idol worshiping and the Quran narrates the story of Abraham about the experience of God in Chapter 6 Verse 74-84. He saw the stars and thought that stars were God. When the stars disappeared he realized that it could not be the case. Subsequently, he saw the moon and deemed it to be God. Once it vanished, he realized that it could also not be God. He had a similar experience with the sun. This story is an example of [proof by contraction](https://en.wikipedia.org/wiki/Proof_by_contradiction) as the proposition that the star is the God leads to a contradiction. 
 
-## The oneness of God (Tawhid)
+## The oneness of God
 
 Islam is a monotheistic religion that puts a strong emphasis on the oneness of God (Tawhid). God is perfect and associating any partners with Him is a dire sin in Islam. 
 
@@ -40,7 +40,7 @@ The children's experience is predominantly empirical. A child learns about diffe
 
 ## Consciousness
 
-Every human being has been blessed with something that enables us to be aware of our surroundings.  This awareness can be defined as consciousness. One important fact about this inner experience is that it is subject. These inner subjective experiences also called [qualia](https://en.wikipedia.org/wiki/Qualia) can not be accessed by third-person entities e.g science. For instance, your experience of tasting vanilla-flavored ice cream is unique to only you and can’t be compared with other people’s experience of eating the same ice cream. We have already discussed mind-body dualism in our [previous blog](https://femustafa.github.io/blog/cogito/). The brain is composed of material substance which the mind is immaterial. The pressing question is how this inner subjective conscious experience emerges from the material brain. This problem is referred to as the [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness).
+Every human being has been blessed with something that enables us to be aware of our surroundings.  This awareness can be defined as consciousness. One important fact about this inner experience is that it is subjective. These inner subjective experiences are also called [qualia](https://en.wikipedia.org/wiki/Qualia) and can not be accessed by third-person entities e.g science. For instance, your experience of tasting vanilla-flavored ice cream is unique to only you and can’t be compared with other people’s experience of eating the same ice cream. We have already discussed mind-body dualism in our [previous blog](https://femustafa.github.io/blog/cogito/). The brain is composed of material substance and the mind is immaterial. The pressing question is how this inner subjective conscious experience emerges from the material brain. This problem is referred to as the [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness).
 
 What is the difference between a robot and a human?. If we manage to develop a robot that is a carbon copy of humans then does it mean that they both are the same?. It is certainly possible to develop a robot that says ouch whenever you pinch it and you could also observe the biological neurons firing. Moreover, it behaves identically to humans. However, the inner subjective consciousness can’t be added to it. This shows us the indispensable importance of intuitive experience.
 
