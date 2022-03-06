@@ -11,9 +11,9 @@ In a society where we are so engrossed in the pleasures of the life, death inevi
 
 The example of this life is like the sand castle on the bank of the river, waiting for the next wave of water to demolish it. Yet we procrastinate the preparation for death as we are aware of when the next wave of water will hit our sand castles. The duration of this life as compared to afterlife is nothing more than the duration for which a symbol drawn on water stays. 
 
-# Materialist’s View:
+# Materialist’s View
 
-Before delving into the Islamic e**[schatology](https://en.wikipedia.org/wiki/Eschatology),** we will briefly discuss the opposing viewpoint put forward by the subscribers of materialism. Materialists believe that everything that exists can be broken down to matter, and they oppose the viewpoint of [dualism](https://femustafa.github.io/blog/cogito/) that the brain and mind are separated from each other. Due to this, they posit that death is the end of the story and there is no such thing as afterlife because human are just composed of body without any soul.
+Before delving into the Islamic [eschatology](https://en.wikipedia.org/wiki/Eschatology), we will briefly discuss the opposing viewpoint put forward by the subscribers of materialism. Materialists believe that everything that exists can be broken down to matter, and they oppose the viewpoint of [dualism](https://femustafa.github.io/blog/cogito/) that the brain and mind are separated from each other. Due to this, they posit that death is the end of the story and there is no such thing as afterlife because human are just composed of body without any soul.
 
 They oppose the religious viewpoint of afterlife. According to materialist, the concept of eternal afterlife renders this life meaningless. Suppose you are a billionaire, then losing a couple of bucks will be negligible for you. Similarly, the eternal nature of afterlife make this life of little value and meaningless.
 
@@ -23,7 +23,7 @@ In Islamic view, humans are composed of body and soul. The death occurs when the
 
 The Quran is full of reminders for human beings about death and belief in afterlife is one of the essential part of religion. One of the most cited verse of Quran is as follows.
 
-> Every soul will taste death. *The Quran 3:185 (Translation by SAHIH INTERNATIONAL)*
+> Every soul will taste death. (*The Quran 3:185, Translation by SAHIH INTERNATIONAL)*
 > 
 
 The choice of words to explain the end of worldly life for humans is precise and subtle. The Quran could have mentioned that every soul will die. But the usage of the word “taste” suggests that soul is withdrawn from the flesh, and the human soul continues to exist in a different form. A person should be alive in order to taste something. Human soul is kept alive in order to taste death.
@@ -40,7 +40,7 @@ If there was no other reason for afterlife, then the reason that the justice wil
 
 Some people are born rich and other poor. Some people are given health, while others spent their life in misery.  Some people with purest of the intent and action seems to struggle while the monsters seems to be openly roaming around with their hammers. There is no equality and ultimate justice in this world. If a person commits murder of 100 people, then how possibly could you do the justice?. One time death sentence is not ultimately justice. Even in the case when a person slaps other person. How would you make sure that the other slapping back will do so in a manner that will cause precisely the same pain [2]. The Quran states this fact that the full compensation for everybody's deeds will be given on the day of judgement, where the ultimate justice will be done.
 
-> Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. *The Quran 3:185 (Translation by SAHIH INTERNATIONAL)*
+> Every soul will taste death, and you will only be given your [full] compensation on the Day of Resurrection. (*The Quran 3:185, Translation by SAHIH INTERNATIONAL)*
 > 
 
 ### Meaningfulness
