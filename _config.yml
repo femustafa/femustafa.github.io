@@ -16,7 +16,7 @@
 title: Faizan E Mustafa
 email: faizanmustafa750@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I write, therefore i am 
+  
 twitter_username: FaizanEMustaf10
 github_username: Faizan-E-Mustafa
 minimal_mistakes_skin: air
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Faizan E Mustafa"
   avatar : "/assets/images/Dp.jpeg"
-  bio    : "I write, therefore i am "
+  bio    : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
