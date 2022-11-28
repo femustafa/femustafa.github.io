@@ -25,7 +25,7 @@ Tragedy of tragedies, the ultimate quagmire
 
 Sinner, thats who you are\
 Winner, thats what you were destined for\
-Stop missing the mark\ 
+Stop missing the mark \ 
 Your future will no more be dark\
 Repent, maybe thats the new journey you should embark\
 You want inner of a beginner? \
