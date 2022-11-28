@@ -19,7 +19,7 @@ leaves and the jars
 
 Don't be silly, nothing is willy-nilly\
 You see that bright star?\
-Even it is at the mercy of a dark and wicked tsar.\ 
+Even it is at the mercy of a dark and wicked tsar\ 
 Night with all its might, makes the star bright\
 No wonder, its brightness is blessing of inevitable plight 
 

@@ -20,10 +20,10 @@ You, your memories are the leaves that will be rotten
 Sad, you don't get what you desire\
 Bad, you are stuck in a quagmire\
 Be careful for what you wish for\
-What if? you finally get what you aspire\ 
+What if? you finally get what you aspire\
 Tragedy of tragedies, the ultimate quagmire 
 
-Sinner, thats who you are\ 
+Sinner, thats who you are\
 Winner, thats what you were destined for\
 Stop missing the mark\ 
 Your future will no more be dark\

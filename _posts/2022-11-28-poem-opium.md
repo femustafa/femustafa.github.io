@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - Poem
-toc: True
+toc: False
 ---
 
 Work and pray, do not dismay\
